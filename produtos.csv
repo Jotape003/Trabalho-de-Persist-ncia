@@ -1,0 +1,41 @@
+id,nome,categoria,preco
+1,Teclado Mecânico Gamer,Periféricos,299.90
+2,Mouse Sem Fio,Periféricos,89.50
+3,Monitor 24 Polegadas,Eletrônicos,899.00
+4,Fone de Ouvido Bluetooth,Eletrônicos,159.99
+5,Webcam Full HD,Eletrônicos,129.90
+6,Cadeira Gamer,Escritório,1199.00
+7,HD Externo 1TB,Armazenamento,349.00
+8,SSD 512GB,Armazenamento,299.00
+9,Pen Drive 32GB,Armazenamento,29.90
+10,Notebook i5 8GB RAM,Computadores,3299.00
+11,Smartphone 128GB,Eletrônicos,1899.00
+12,Carregador Portátil,Bateria,119.00
+13,Cabo USB-C 1m,Acessórios,19.90
+14,Tablet 10 Polegadas,Eletrônicos,999.00
+15,Impressora Multifuncional,Escritório,699.00
+16,Switch 8 Portas,Redes,129.00
+17,Roteador Dual Band,Redes,199.00
+18,Caixa de Som Bluetooth,Eletrônicos,149.90
+19,Smartwatch Esportivo,Eletrônicos,349.90
+20,Lâmpada Smart Wi-Fi,Automação,69.90
+21,Controle Universal Smart,Automação,79.90
+22,Aspirador Robô,Eletrodomésticos,1399.00
+23,Air Fryer 4L,Eletrodomésticos,399.00
+24,Liquidificador 900W,Eletrodomésticos,199.90
+25,Panela Elétrica 3L,Eletrodomésticos,249.90
+26,Adaptador HDMI para VGA,Acessórios,29.90
+27,Placa de Vídeo GTX 1660Ti,Hardware,1699.00
+28,Memória RAM 8GB DDR4,Hardware,189.90
+29,CPU Cooler,Hardware,129.90
+30,Base Refrigerada para Notebook,Acessórios,79.90
+31,Scanner Portátil,Escritório,299.00
+32,Microfone USB,Periféricos,219.90
+33,Hub USB 4 Portas,Acessórios,39.90
+34,Repetidor de Sinal Wi-Fi,Redes,99.90
+35,TV 50 Polegadas 4K,Eletrônicos,2499.00
+36,Soundbar 120W,Eletrônicos,599.00
+37,Estabilizador 500VA,Eletrônicos,189.00
+38,Nobreak 1200VA,Eletrônicos,799.00
+39,Kit Teclado e Mouse,Periféricos,119.90
+40,Monitor 27 Polegadas 144Hz,Eletrônicos,1799.00
