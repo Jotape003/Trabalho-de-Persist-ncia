@@ -65,6 +65,7 @@ def obter_preco_medio():
     media = produtos_df["preco"].mean()
     return {"preco_medio": round(media, 2)}
 
+
 @app.get("/produtos/acima-da-media")
 def obter_produtos_acima_da_media():
     global produtos_df
@@ -72,12 +73,14 @@ def obter_produtos_acima_da_media():
     produto_acima_media = produtos_df[produtos_df["preco"] >= media]
     return produto_acima_media.to_dict(orient="records")
 
+
 @app.get("/produtos/abaixo-da-media")
 def obter_produtos_abaixo_da_media():
     global produtos_df
     media = produtos_df["preco"].mean()
     produto_abaixo_media = produtos_df[produtos_df["preco"] < media]
     return produto_abaixo_media.to_dict(orient="records")
+
 
 @app.get("/produtos/{id}")
 def obter_produto(id: int):
