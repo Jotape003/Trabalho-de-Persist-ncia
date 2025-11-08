@@ -1,5 +1,5 @@
 id,nome,categoria,preco
-1,Teclado Mecânico Gamer,Periféricos,299.9
+1,Teclado Mecânico Gamer,Periféricos,400.0
 3,Monitor 24 Polegadas,Eletrônicos,899.0
 4,Fone de Ouvido Bluetooth,Eletrônicos,159.99
 5,Webcam Full HD,Eletrônicos,129.9
@@ -38,4 +38,3 @@ id,nome,categoria,preco
 38,Nobreak 1200VA,Eletrônicos,799.0
 39,Kit Teclado e Mouse,Periféricos,119.9
 40,Monitor 27 Polegadas 144Hz,Eletrônicos,1799.0
-41,Mouse Gamer RGB,Categoria Periféricos,159.9
