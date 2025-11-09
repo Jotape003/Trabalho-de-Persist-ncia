@@ -1,6 +1,5 @@
 import type { NovoProduto, Produto } from "./types";
 
-
 const BASE_URL = "http://127.0.0.1:8000";
 
 async function handleResponse<T>(response: Response): Promise<T> {
@@ -72,6 +71,7 @@ export async function obterProdutosAcimaDaMedia(): Promise<Produto[]> {
     const response = await fetch(`${BASE_URL}/produtos/acima-da-media`);
     return handleResponse<Produto[]>(response);
 }
+
 // GET /produtos/abaixo-da-media
 export async function obterProdutosAbaixoDaMedia(): Promise<Produto[]> {
     const response = await fetch(`${BASE_URL}/produtos/abaixo-da-media`);
