@@ -11,13 +11,12 @@ origins = [
     "http://localhost:5173",
 ]
 
-# Adicione o middleware ao seu app
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
     allow_credentials=True,
-    allow_methods=["*"],  # Permite todos os métodos (GET, POST, etc.)
-    allow_headers=["*"],  # Permite todos os cabeçalhos
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 lock = asyncio.Lock()
